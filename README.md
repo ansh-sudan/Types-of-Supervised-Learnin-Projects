@@ -23,9 +23,6 @@ Decision Tree:
 This project illustrates the use of decision trees for both regression and classification tasks, showcasing how to make decisions based on a hierarchical model of decisions and their possible consequences.
 
 
-Upcoming Projects
-
-
 Logistic Regression:
 
 Binary Logistic Regression: This project will cover binary classification problems using logistic regression.
