@@ -9,7 +9,6 @@ This repository contains various supervised learning projects to demonstrate dif
 Projects
 
 
-
 Current Projects
 
 
